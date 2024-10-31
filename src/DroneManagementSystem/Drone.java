@@ -6,5 +6,4 @@ public interface Drone {
     int batteryCapacity();
     int flightRange();
     String displayDrone();
-
 }
